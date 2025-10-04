@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Sean Kenneth
+# 👋 Hello, I am Sean Kenneth Damasco
 
-💻 **Aspiring Software Engineer & Web Developer**  
+💻 **Aspiring Web and Mobile Developer and Data Analyst**  
 🚀 Passionate about learning modern web technologies, automation, and AI.  
-🎯 My goal: to become a world-class freelancer and problem-solver.
+🎯 My goal: to excel in solving real-world problems.
 
 ---
 
 ### 🧰 Tech Stack
 💡 Currently learning:
 - HTML • CSS • JavaScript  
-- React.js • Node.js  
+- React.js • Typrescript  
 - Python (for AI/Automation)
 
 ---
@@ -23,8 +23,8 @@
 
 ### 📫 Connect with Me
 - 🌐 Portfolio: *Coming soon*
-- ✉️ Email: yourname@email.com  
-- 💼 LinkedIn: [linkedin.com/in/seankennethdms](#)
+- ✉️ Email: damascoseankenneth@gmail.com  
+- 💼 LinkedIn: *Coming Soon*
 
 ---
 
