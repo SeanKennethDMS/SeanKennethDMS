@@ -7,10 +7,16 @@
 ---
 
 ### 🧰 Tech Stack
-💡 Currently learning:
-- HTML • CSS • JavaScript  
-- React.js • Typrescript  
-- Python (for AI/Automation)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> TypeScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python  
+</p>
+
 
 ---
 
@@ -25,6 +31,8 @@
 - 🌐 Portfolio: *Coming soon*
 - ✉️ Email: damascoseankenneth@gmail.com  
 - 💼 LinkedIn: *Coming Soon*
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seankennethdms)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/acurax_s)
 
 ---
 
