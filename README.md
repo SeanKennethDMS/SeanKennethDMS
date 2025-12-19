@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect with Me
-- 🌐 Portfolio: [seankennethdms.vercel.app](https://seankennethdamasco.vercel.app/)
+- 🌐 Portfolio: [https://seankennethdms.vercel.app/](https://seankennethdms.vercel.app/)
 - ✉️ Email: damascoseankenneth@gmail.com  
 - 💼 LinkedIn: *Coming Soon*
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seankennethdms)
