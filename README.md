@@ -1,12 +1,12 @@
-# 👋 Hello, I am Sean Kenneth Damasco
+# Hello, I am Sean Kenneth Damasco
 
-💻 **Aspiring Web and Mobile Developer and Data Analyst**  
-🚀 Passionate about learning modern web technologies, automation, and AI.  
-🎯 My goal: to excel in solving real-world problems.
+**Aspiring Web and Mobile Developer and Data Analyst**  
+Passionate about learning modern web technologies, automation, and AI.  
+My goal: to excel in solving real-world problems.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
@@ -20,20 +20,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seankennethdms&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seankennethdms&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
-- 🌐 Portfolio: [https://seankennethdms.vercel.app/](https://seankennethdms.vercel.app/)
-- ✉️ Email: damascoseankenneth@gmail.com  
-- 💼 LinkedIn: *Coming Soon*
+### Connect with Me
+- Portfolio: [https://seankennethdms.vercel.app/](https://seankennethdms.vercel.app/)
+- Email: damascoseankenneth@gmail.com  
+- LinkedIn: *Coming Soon*
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seankennethdms)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/acurax_s)
 
 ---
-
-✨ *"Keep building. Keep improving. Every line of code counts."*
+*"Keep building. Keep improving. Every line of code counts."*
